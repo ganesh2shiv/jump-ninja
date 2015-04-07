@@ -1,0 +1,1 @@
+include ':app', ':andengine', ':andengine-physicsbox2d-extension'

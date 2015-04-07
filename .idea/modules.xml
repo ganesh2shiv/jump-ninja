@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JumpNinja.iml" filepath="$PROJECT_DIR$/JumpNinja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine/andengine.iml" filepath="$PROJECT_DIR$/andengine/andengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-physicsbox2d-extension/andengine-physicsbox2d-extension.iml" filepath="$PROJECT_DIR$/andengine-physicsbox2d-extension/andengine-physicsbox2d-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
